@@ -8,7 +8,13 @@
 <img src="assets/combined_metrics.png" width="90%">
 
 
+
+### Model download
+We make our trained model public at: https://huggingface.co/skl24/DySENSE/
+
+
 ## Installation
+
 
 Download or clone the repository.
 
@@ -18,7 +24,7 @@ cd DySENSE
 ```
 
 ### Environment Installation 
-We recommend using Conda ([Miniconda](https://docs.conda.io/projects/miniconda/en/latest/index.html)) for installation. 
+We recommend using MiniConda ([Miniconda](https://docs.conda.io/projects/miniconda/en/latest/index.html)) for installation. 
 
 Please refer to the [UrbanControlnet](https://github.com/kailaisun/UrbanControlNet).
 
@@ -29,8 +35,6 @@ pip install -r requirements.txt
 ```
 
 
-### Model download
-We make our trained model public at: https://huggingface.co/skl24/DySENSE/
 
 ## Dataset Preparation
 
