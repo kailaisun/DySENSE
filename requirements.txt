@@ -1,0 +1,17 @@
+accelerate
+bitsandbytes
+datasets<4.0
+diffusers
+ftfy
+huggingface_hub
+numpy
+open_clip_torch>=3.0
+peft
+pillow
+regex
+scipy
+torch
+torchvision
+tqdm
+transformers
+wandb
