@@ -91,6 +91,7 @@ bash scripts/generate_dynamic.sh
 bash scripts/generate_static.sh
 ```
 
+
 **Stage 4 — Downstream energy prediction:**
 
 ```shell
