@@ -9,8 +9,7 @@
 
 
 
-### Model download
-We make our trained model public at: https://huggingface.co/skl24/DySENSE/
+### We make our trained model public at: https://huggingface.co/skl24/DySENSE/
 
 
 ## Installation
